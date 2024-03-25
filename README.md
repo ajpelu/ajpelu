@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub followers](https://img.shields.io/github/followers/ajpelu?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=4CAF50)](https://github.com/login?return_to=%2FIndrajeetPatil)
+[![GitHub followers](https://img.shields.io/github/followers/ajpelu?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=4CAF50)](https://github.com/login?return_to=%2ajpelu)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ajpelu?label=%20%40ajpelu&style=flat-square&labelColor=2196F3&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/ajpelu)
 [![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Antonio-Jesus-Perez-Luque)
 
