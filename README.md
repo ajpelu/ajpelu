@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Twitter Follow](https://img.shields.io/twitter/follow/ajpelu?label=%20%40ajpelu&style=flat-square&labelColor=2196F3&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/ajpelu)
 [![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Antonio-Jesus-Perez-Luque)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajpelu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajpelu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
